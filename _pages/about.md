@@ -1,11 +1,7 @@
 ---
-title: "About"
 permalink: /about/
-layout: single
-author_profile: false
+title: "About"
 ---
-
-![Zinabu Getahun Sisay]({{ site.baseurl }}/assets/images/zinabu.jpg.jpeg){: .align-left width="220"}
 
 I am the Head of the Land Administration and Surveying department at Bahir Dar University. My work asks one question: how accurate is the spatial data behind land registration?
 
