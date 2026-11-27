@@ -3,5 +3,7 @@ main:
     url: /about/
   - title: "CV"
     url: /assets/Zinabu_Getahun_Sisay_CV.pdf
+  - title: "Publications"
+    url: /publications/
   - title: "Certificates"
     url: /certificates/
