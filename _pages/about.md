@@ -25,7 +25,7 @@ author_profile: false
 
 .ab-intro { margin-top: 2em; font-size: 1.08em; line-height: 1.75; }
 .ab-intro p { margin-bottom: 1.1em; }
-.ab-lead { font-size: 1.2em; font-weight: 600; color: #1b4332; }
+.ab-lead { font-size: 1.15em; font-weight: 600; color: #1b4332; }
 
 .ab-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1em; margin: 2em 0; }
 .ab-stat {
@@ -60,13 +60,13 @@ author_profile: false
   </div>
 
   <div class="ab-intro">
-    <p class="ab-lead">A land title is only as good as the map behind it. I work on how accurate that spatial data really is, testing it with GNSS, aerial photogrammetry and field surveying.</p>
+    <p class="ab-lead">Assistant Professor of Land Surveying, Photogrammetry and Remote Sensing and Academic Vice Dean of the Institute of Land Administration at Bahir Dar University, with an MSc in Remote Sensing and Photogrammetry and an exchange year in Geomatics at Aalto University, Finland.</p>
 
-    <p>I have been at Bahir Dar University since 2011, first as an Assistant Lecturer and now as an Assistant Professor and Academic Vice Dean of the Institute of Land Administration. I also lead the Surveying and Geodesy research division at the Geospatial Data Technology Center, and from 2018 I headed the Department of Land Administration and Surveying.</p>
+    <p>Hands-on expertise in GNSS surveying, aerial photogrammetry, remote sensing, orthophoto accuracy validation and cadastral mapping.</p>
 
-    <p>Since 2016 I have coordinated the technical side of Ethiopia's national orthophoto verification: 74 major cities, then 21 medium-sized ones from 2020. I am also a researcher in Li4LaM, an Erasmus+ project, and in Edu4GEO, both with BOKU Vienna, TU Wien and Debre Markos University.</p>
+    <p>Experienced project manager and technical coordinator, running Ethiopia’s national orthophoto verification across 74 major and 21 medium cities, leading the surveying and mapping team for the Bahir Dar City Structural Plan, and heading the Surveying and Geodesy research division at the Geospatial Data Technology Center.</p>
 
-    <p>My papers are in the Nordic Journal of Surveying and Real Estate Research and the African Journal on Land Policy and Geospatial Sciences, and I have presented them in Germany, Kenya, Côte d'Ivoire and Morocco. I also train experts from the Ministry of Urban Development and Construction and from regional offices in cadastral surveying, land registration and GIS.</p>
+    <p>Researcher, academic reviewer and trainer, teaching cadastral surveying, land registration and GIS to experts from the Ministry of Urban Development and Construction and regional offices. Focused on strengthening Ethiopia’s geospatial and land administration capacity.</p>
   </div>
 
   <div class="ab-stats">
